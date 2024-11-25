@@ -1,0 +1,25 @@
+{
+    "name": "annapoorani",
+    "version": "1.0.2",
+    "main": "index.js",
+    "scripts": {
+        "setup": "annapoorani install",
+        "build": "annapoorani build",
+        "start": "annapoorani start",
+        "start:debug": "annapoorani start --debug",
+        "dev": "annapoorani dev",
+        "user:create": "annapoorani user:create",
+        "user:changePassword": "annapoorani user:changePassword"
+    },
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Selvarajmanikkalai-art/annapoorani.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Selvarajmanikkalai-art/annapoorani/issues"
+    },
+    "homepage": "https://github.com/Selvarajmanikkalai-art/annapoorani#readme",
+    "description": ""
+}
